@@ -39,15 +39,25 @@ For this project we need the following data:
 ![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/head_shape.JPG)
 
 2. Next i filter all venues with Chinese Restaurant Category in New York by Borough and Neighborhood with Foursquare API, and get their respectives Ratings, Tips and Number of Likes
-![Settings Window]
-(https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/Rating%20and%20Like%20per%20restaurant.JPG)
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/Rating%20and%20Like%20per%20restaurant.JPG)
 
 3. Then i sort by the best Rating chinese restaurant in NY
-![Settings Window]
-(https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/bestRating.JPG)
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/bestRating.JPG)
 
 4. And also by Like
-![Settings Window]
-(https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/bestLike.JPG)
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/bestLike.JPG)
 
-5.
+5. Then, the 10 top ratings by Neighbhorhoods
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/Top10RatingNeighborhood.JPG)
+
+6. And the average of the Boroughs
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/AvarageperBoroughs.JPG)
+
+7. I use Folium to make a chropleth map by the Avarage Ratings of the Neighborhoods
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/MapNeighborhoodAverage.JPG)
+
+8. Finishing, i use the Algoritm of KMeans Clusterization to classify the Neighborhoods in 3 differents cluster by Rating and Likes means.
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/Media%20Clsuters.JPG)
+
+9. Them, i plot this restaurants ploted in the follow map by their clusterization
+![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/ClusteringNeighborhoods.JPG)
