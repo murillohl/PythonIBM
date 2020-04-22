@@ -61,3 +61,16 @@ For this project we need the following data:
 
 9. Them, i plot this restaurants ploted in the follow map by their clusterization
 ![Settings Window](https://github.com/murillohl/PythonIBM/blob/master/Capstone%20Project/ClusteringNeighborhoods.JPG)
+
+## Results
+
+  After all this, we can say that the best Chinese Restaurant is Buddakan, in Chelsea Neighborhood, with 9.2 Rating and 1487 Likes.
+  Also, the Neighborhood that has the bests rating Chinese Restaurants are Chelsea, Greepoint, North Side, Murray Hill and Civic Center (Top 5)
+  Analysing the groups of Clusters, we can see that the KMeans distingued the clusters by this:
+    Cluster 0 : Is the normal Chinese Restaurants, contains restaurants with Rating less than 8 usually, with a Mean Rating in 7.1
+    Cluster 1 : The bests and most populer Chinese Restaurants, with a high Rating (9.0) and a high number of Likes
+    Cluster 2 : Also contains good Chinese Restaurants, with a Rating in 8.7, but dont usually get so much Likes, with we can conclude that is not so popular maybe.
+    
+## Conclusion
+
+We can conclude that New York have a great number of Chinese Restaurants ( 406 ), but the best place with the best ratings and popular Chinese Restaurants to live, is in Manhattan Borough.
