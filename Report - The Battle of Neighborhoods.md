@@ -16,7 +16,7 @@ States.
 To find the answers to the following questions:
 - List and visualize greats Chinese restaurants Rating in New York
 - What are the bests location in New York City for Chinese Cuisine?
-- Clustering Neighborhoods by Average of Ratings Restaurants and Likes they received
+- Clustering Neighborhoods by Average of Ratings Restaurants and Likes they received.
 - Which is the best place to stay if you prefer Chinese Cuisine?
 
 ## Data Section:
