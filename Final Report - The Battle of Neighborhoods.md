@@ -71,6 +71,6 @@ For this project we need the following data:
     - Cluster 1 : The bests and most populer Chinese Restaurants, with a high Rating (9.0) and a high number of Likes.
     - Cluster 2 : Also contains good Chinese Restaurants, with a Rating in 8.7, but dont usually get so much Likes, with we can conclude that is not so popular maybe.
     
-## Conclusion
+## Conclusion:
 
 We can conclude that New York have a great number of Chinese Restaurants ( 406 ), but the best place with the best ratings and popular Chinese Restaurants to live, is in Manhattan Borough.
